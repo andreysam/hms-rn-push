@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:6:5-15:19
+service#com.huawei.hms.rn.push.services.MessagingHeadlessService
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:7:18-89
+service#com.huawei.hms.rn.push.remote.HmsPushMessageService
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:8:9-14:19
+	android:exported
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:10:13-37
+	android:name
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:9:13-79
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:11:13-13:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:12:17-81
+	android:name
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml:12:25-78
+uses-sdk
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+		ADDED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrey/cheburgram/app/node_modules/@hmscore/react-native-hms-push/android/src/main/AndroidManifest.xml
